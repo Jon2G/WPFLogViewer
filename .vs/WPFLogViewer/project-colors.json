@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16b7c46d-2ada-4d92-87f7-a935ada1306c": {
+      "ProjectGuid": "16b7c46d-2ada-4d92-87f7-a935ada1306c",
+      "DisplayName": "WPFLogViewer.Test",
+      "ColorIndex": 0
+    },
+    "322838cf-d735-4a02-a6bc-347ae949b702": {
+      "ProjectGuid": "322838cf-d735-4a02-a6bc-347ae949b702",
+      "DisplayName": "WPFLogViewer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

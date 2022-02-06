@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnTPTiNHS/1rl5oItN/VPlN5WMBAXi0TUalOIjJYpH6/rLHor2lsHyIrjmbpWyqsm3MT2DOOk/zh4SzC17sA0w==",
+  "success": true,
+  "projectFilePath": "F:\\source\\repos\\WPFLogViewer\\WPFLogViewer.Test\\WPFLogViewer.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonyj\\.nuget\\packages\\asyncawaitbestpractices\\6.0.4\\asyncawaitbestpractices.6.0.4.nupkg.sha512",
+    "C:\\Users\\jonyj\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\jonyj\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\jonyj\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\jonyj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\jonyj\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\jonyj\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
